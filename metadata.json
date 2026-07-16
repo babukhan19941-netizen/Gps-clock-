@@ -1,0 +1,6 @@
+{
+  "name": "NeoPixel GPS Clock Simulator",
+  "description": "An interactive, beautiful simulator for an Arduino-based 158-NeoPixel digital clock synced with NEO-6M GPS and a DS18B20 temperature sensor, matching physical LED layouts and button behavior.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
